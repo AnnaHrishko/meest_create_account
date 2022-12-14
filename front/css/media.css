@@ -416,6 +416,12 @@
   .advertising_registration .text_advert .descr {
     font-size: 12px;
   }
+  .login-form .sub-button {
+    padding: 15px 31px;
+  }
+  .login-form .main-button {
+    padding: 15px 44px;
+  }
 }
 @media screen and (max-width: 450px) {
   .profile-create-menu .menu li {
